@@ -1,5 +1,6 @@
 /**
- * 
+ * added this line because I pushed instead of doing a pull request 
+ *
  * @param {*} num1, first number to add. 
  * @param {*} num2, second number to add. 
  * @param {*} add, boolean value to tell the function what to do. 
