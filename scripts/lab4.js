@@ -1,4 +1,8 @@
 /**
+ * This is a small change
+ * cuz I pushed instead of doing a pull request
+ * 
+ * 
  * 
  * @param {*} num1, first number to add. 
  * @param {*} num2, second number to add. 
